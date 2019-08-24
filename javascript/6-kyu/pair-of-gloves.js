@@ -1,3 +1,8 @@
+// URL:
+/*
+  https://www.codewars.com/kata/pair-of-gloves/train/javascript
+*/
+
 // Instructions
 /*
 Pair of gloves
