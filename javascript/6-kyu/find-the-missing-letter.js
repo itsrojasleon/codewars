@@ -30,20 +30,16 @@
 */
 
 function findMissingLetter(array) {
-  let newArray = [];
+  let result = '';
 
   for (let i = 0; i < array.length; i++) {
-    if (i !== array.length) {
-      if (array[i + 1].charCodeAt(0) - array[i].charCodeAt(0) === 1) {
-        newArray.push(array[i]);
-      } else {
-        newArray.push(array[i], String.fromCharCode(array[i] + 1));
+    if (i !== array.length - 1) {
+      if (array[i + 1].charCodeAt(0) - array[i].charCodeAt(0) !== 1) {
+        result = String.fromCharCode(array[i].charCodeAt(0) + 1);
       }
-    } else {
-      newArray.push(array[i]);
     }
   }
 
-  return newArray;
+  return result;
 }
 findMissingLetter(['a', 'b', 'c', 'd', 'f']);
