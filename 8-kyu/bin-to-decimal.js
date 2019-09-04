@@ -1,6 +1,11 @@
+// Name
+/*
+  Bin to Decimal
+*/
+
 // Url
 /*
-  https
+  https://www.codewars.com/kata/bin-to-decimal/train/javascript
 */
 
 // Instructions
