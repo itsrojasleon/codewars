@@ -1,6 +1,11 @@
+// Name
+/*
+  Correct the mistakes of the character recognition software
+*/
+
 // Url
 /*
-  https
+  https://www.codewars.com/kata/correct-the-mistakes-of-the-character-recognition-software/train/javascript
 */
 
 // Instructions
