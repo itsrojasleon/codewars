@@ -1,6 +1,11 @@
+// Name
+/*
+  Convert a Boolean to a String
+*/
+
 // Url
 /*
-  https
+  https://www.codewars.com/kata/convert-a-boolean-to-a-string/train/javascript
 */
 
 // Instructions
