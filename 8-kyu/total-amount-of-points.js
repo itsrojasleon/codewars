@@ -1,6 +1,11 @@
+// Name
+/*
+  Total amount of points
+*/
+
 // Url
 /*
-  https
+  https://www.codewars.com/kata/total-amount-of-points/train/javascript
 */
 
 // Instructions
