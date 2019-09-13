@@ -1,6 +1,11 @@
+// Name
+/*
+	Sum of positive
+*/
+
 // Url
 /*
-  https
+  https://www.codewars.com/kata/sum-of-positive/train/javascript
 */
 
 // Instructions
