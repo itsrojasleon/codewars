@@ -1,6 +1,11 @@
+// Name
+/*
+  Quarter of the year
+*/
+
 // Url
 /*
-  https
+  https://www.codewars.com/kata/quarter-of-the-year/train/javascript
 */
 
 // Instructions
