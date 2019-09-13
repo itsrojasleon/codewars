@@ -1,6 +1,11 @@
+// Name
+/*
+  Is there a vowel in there?
+*/
+
 // Url
 /*
-  https
+  https://www.codewars.com/kata/is-there-a-vowel-in-there/train
 */
 
 // Instructions
