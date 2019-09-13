@@ -1,6 +1,11 @@
+// Name
+/*
+  Will there be enough space?
+*/
+
 // Url
 /*
-  https
+  https://www.codewars.com/kata/will-there-be-enough-space/train/javascript
 */
 
 // Instructions
