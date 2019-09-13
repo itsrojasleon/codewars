@@ -1,6 +1,11 @@
+// Name
+/*
+  How good are you really?
+*/
+
 // Url
 /*
-  https
+  https://www.codewars.com/kata/how-good-are-you-really/train
 */
 
 // Instructions
