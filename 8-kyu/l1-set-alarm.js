@@ -1,6 +1,11 @@
+// name
+/*
+  L1: Set Alarm
+*/
+
 // Url
 /*
-  https
+  https://www.codewars.com/kata/l1-set-alarm/train
 */
 
 // Instructions
