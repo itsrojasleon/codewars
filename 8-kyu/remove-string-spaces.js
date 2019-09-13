@@ -1,6 +1,11 @@
+// Name
+/*
+  Remove String Spaces
+*/
+
 // Url
 /*
-  https
+  https://www.codewars.com/kata/remove-string-spaces/train/javascript
 */
 
 // Instructions
