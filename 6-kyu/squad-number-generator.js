@@ -28,9 +28,8 @@
 
 function generateNumber(arr, n) {
   let a = arr.find(num => num === n);
-  if (!a) {
-    return n;
-  } else {
+  if (!a) return n;
+  else 
     let values = [];
     let cool = null;
 
@@ -50,7 +49,6 @@ function generateNumber(arr, n) {
     }
     return cool;
   }
-}
 generateNumber([1, 2, 3, 4, 6, 9, 10, 11, 15, 29, 69], 11);
 generateNumber(
   [1, 2, 3, 4, 6, 9, 10, 11, 15, 29, 38, 47, 56, 65, 69, 74, 83, 92],
