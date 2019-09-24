@@ -23,8 +23,6 @@
 */
 
 function abbrevName(name) {
-  return (
-    name.charAt(0).toUpperCase() + '.' + name.split(' ')[1][0].toUpperCase()
-  );
+  return (name.charAt(0) + '.' + name.split(' ')[1][0]).toUpperCase();
 }
 abbrevName('Sam Harris');
