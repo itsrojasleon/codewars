@@ -23,6 +23,7 @@
 */
 
 function fixTheMeerkat(arr) {
+  /*
   let result = [];
 
   result[0] = arr[2];
@@ -30,5 +31,8 @@ function fixTheMeerkat(arr) {
   result[2] = arr[0];
 
   return result;
+  */
+
+  return arr.reverse();
 }
 fixTheMeerkat(['tail', 'body', 'head']);
