@@ -39,6 +39,9 @@
 */
 
 function createSpiral(N) {
+  if (Number(N) !== Number.parseInt(N) || N < 1 || typeof N === 'string')
+    return [];
+
   const results = [];
   for (let i = 0; i < N; i++) {
     results.push([]);
