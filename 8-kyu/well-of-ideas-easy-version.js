@@ -48,4 +48,3 @@ function well(x) {
     ? 'I smell a series!'
     : 'Publish!';
 }
-well(['bad', 'bad', 'bad']);
