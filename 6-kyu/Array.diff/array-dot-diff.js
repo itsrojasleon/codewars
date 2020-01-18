@@ -19,7 +19,7 @@
 */
 
 function array_diff(a, b) {
-  if (!b.length || !a.length) return a;
+  /*if (!b.length || !a.length) return a;
   let result = [];
 
   for (let number of a) {
@@ -27,5 +27,9 @@ function array_diff(a, b) {
       result.push(number);
     }
   }
-  return result;
+  return result;*/
+
+  // return a.filter(num => b.indexOf(num) !== -1);
+
+  return a.filter(num => !b.includes(num));
 }
