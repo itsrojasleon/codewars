@@ -1,12 +1,6 @@
-// Name
-/*
-  Multiples of 3 or 5
-*/
+// Multiples of 3 or 5
 
-// Url
-/*
-  https://www.codewars.com/kata/multiples-of-3-or-5/train/javascript
-*/
+// https://www.codewars.com/kata/multiples-of-3-or-5/train/javascript
 
 // Instructions
 /*
@@ -24,7 +18,6 @@ function solution(number) {
 
   for (let i = 1; i < number; i++) {
     if (i % 3 === 0 || i % 5 === 0) {
-      console.log(i);
       sum += i;
     }
   }
